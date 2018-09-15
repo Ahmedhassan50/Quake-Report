@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuakeReport</string>
+    <string name="power1">7.2</string>
+    <string name="power2">6.1</string>
+    <string name="power3">3.9</string>
+    <string name="power4">5.4</string>
+    <string name="power5">2.8</string>
+    <string name="location1">San Fransesco</string>
+    <string name="location2">london</string>
+    <string name="location3">Tokyo</string>
+    <string name="location4">Mexco city</string>
+    <string name="location5">Mousco</string>
+    <string name="date1">feb 2,2016</string>
+    <string name="date2">July 20,2015</string>
+    <string name="date3">Nov 10,2014</string>
+    <string name="date4">May 3,2014</string>
+    <string name="date5">Jan 31,2013</string>
+    <string name="near_the">Near the</string>
+
+
+</resources>
